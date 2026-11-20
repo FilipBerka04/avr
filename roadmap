@@ -1,0 +1,20 @@
+DONE:
+digital pin output
+digital pin input
+timer & prescaler
+pwm
+interrupts
+
+TODO:
+UART
+ADC
+I2C (TWI)
+SPI
+EEPROM
+
+Whenever:
+sleep
+fuse bits
+
+Other/generic:
+make and makefile

@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-c",
+      "-mmcu=atmega328p",
+      "-Wall",
+      "-Os",
+      "-o",
+      "build/timer.elf",
+      "src/main.c"
+    ],
+    "directory": "/home/filip/avr/interrupt_blink",
+    "file": "/home/filip/avr/interrupt_blink/src/main.c",
+    "output": "/home/filip/avr/interrupt_blink/build/timer.elf"
+  }
+]

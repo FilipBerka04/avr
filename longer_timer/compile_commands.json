@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-c",
+      "-mmcu=atmega328p",
+      "-Wall",
+      "-Os",
+      "-o",
+      "build/timer.elf",
+      "src/main.c"
+    ],
+    "directory": "/home/filip/avr/longer_timer",
+    "file": "/home/filip/avr/longer_timer/src/main.c",
+    "output": "/home/filip/avr/longer_timer/build/timer.elf"
+  }
+]
